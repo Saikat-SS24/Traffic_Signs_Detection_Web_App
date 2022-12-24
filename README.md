@@ -17,3 +17,5 @@ It is a traffic signs detection web app. Here user can detect 43 types of traffi
 <h3 align="left"> 🚩Note </h3>
 
 Currently web app is not deployed.
+
+Link of the web application will be available soon
