@@ -1,39 +1,72 @@
-<h3 align="center">🚦Traffic Signs Detection🚦</h3>
-<img align="right" alt="Coding" Width="400" src="https://images.ctfassets.net/2sam6k0rncvg/zRr6ITWf1q2OagYNvKfSc/fc5949a7e285a7fe1f56b3fb56eb5300/traffic-signal-rules.png">
 
-<h3 align="center"> About </h3>
+# Project Title
+
+Traffic Signs Detection Web App
+
+# Project Description
+
 It is a traffic signs detection web app. Here user can detect 43 types of traffic signs and their meanings which is not known by the user.User can take a picture from the mobile phone which will be saved into the mobile gallery and user can upload this picture to detect the sign and it's meaning. The images should be in 3 formats - .jpg,.jpeg,.png.
 
-<h3 align="left"> Requirements </h3>
 
-1.numpy
 
-2.Pillow
 
-3.keras
 
-4.tensorflow
 
-5.flask
 
-6.Werkzeug
 
-7.gunicorn
 
-Dataset: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
-<h3 align="left"> Usage </h3>
 
-1.Clone the repository.
 
-2.Open CMD in working directory.
+## Requirements
 
-3.Write Traffic_app.py and hit enter.
+- numpy
+- pillow
+- keras
+- tensorflow
+- flask
+- Werkzeug
+- gunicorn
 
-4.Go to the http://127.0.0.1:5000 and test it. It is a local Flask App.
 
-<h3 align="left"> 🚩Note </h3>
+## Installation
+
+```bash
+  clone the project
+```
+
+    
+## Deployment
+
+Open cmd in the working directory and type
+
+To run the project run
+
+```bash
+   python Traffic_app.py
+```
+Go to
+
+```bash
+   http://127.0.0.1:5000
+```
+and test it
+
+
+## Dataset Link
+
+[Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
+
+
+## Note
 
 Currently web app is not deployed.
 
 Link of the web application will be available soon
+
+## Screenshots
+
+![App Screenshot](https://github.com/Saikat-SS24/Traffic_Signs_Detection_Web_App/blob/main/Web_img1.png)
+
+![App Screenshot](https://github.com/Saikat-SS24/Traffic_Signs_Detection_Web_App/blob/main/Web_img2.png)
+
